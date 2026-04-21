@@ -23,7 +23,7 @@ It includes static site hosting, HTTPS with self-signed SSL, HTTP→HTTPS redire
 ![Redirect Working](images/redirect-working.png)
 
 ### 3. Backend Running via Reverse Proxy
-![Backend Running](images/backend-running.png)
+![Backend Running](images/backend-working.png)
 
 ---
 
